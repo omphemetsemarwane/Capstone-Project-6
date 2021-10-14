@@ -8,6 +8,8 @@ Poised does the engineering needed to ensure the structural integrity of various
 
 # Features (How it works?)
 
+Inside the 'src/Poised Package' folder of this projects contents, there are five Java classes that run the project management system for the user. These will be explained briefly to outline the overall functionality of the program:
+
 The UML(Unified Modeling Language) diagram is used to display an overall plan of the project to meet the Poised Firm requirments for the Project Management System. The main 'Menu'(PoisedFirm) Java class was created to call methods from sub-classes(depending on what option the user chooses on the main menu). Once the project is completed, the programme will be able to record all the details about new projects, update details on existing projects, finalise existing projects, view projects that are incomplete or overdue, and to find and select a project by number or name. From this point the project is not yet complete but will be completd at a later stage. At this stage the programme was enhanced by doing the following:
 
 > Exception handling was incoporated by including at least two try-catch blocks(for error handling)
