@@ -1,5 +1,5 @@
 # Capstone-Project-6
-# OOP : Poised Firm Part 2
+# Poised Firm: Object Orientated Programming, Debbuging, Software Testing & Refactoring
 # Project Information
 # Description
 
